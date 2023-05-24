@@ -1,0 +1,24 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.0.3",
+    "https": "^1.0.0",
+    "node-fs": "^0.1.7",
+    "pagalworld": "^1.0.3",
+    "puppeteer": "^20.2.1",
+    "telegraf": "^4.12.2",
+    "telegraph": "^0.8.22",
+    "unix-timestamp": "^1.0.3"
+  }
+}
