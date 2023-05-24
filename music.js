@@ -1,6 +1,6 @@
 const { search, getURL } = require('pagalworld');
 const { Telegraf } = require('telegraf');
-const bot = new Telegraf("5993676392:AAESrodB_E_edhxeUlMiO5s2QOv1jlj72x8");
+const bot = new Telegraf("Tloen no");
 bot.start((ctx) => {
   ctx.reply("Welcome " + ctx.from.first_name + " to the music downloader bot");
   ctx.reply("try /music for songs then follw up");
